@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\bin\Debug\net8.0\LibraryProject.exe
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\bin\Debug\net8.0\LibraryProject.deps.json
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\bin\Debug\net8.0\LibraryProject.runtimeconfig.json
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\bin\Debug\net8.0\LibraryProject.dll
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\bin\Debug\net8.0\LibraryProject.pdb
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\obj\Debug\net8.0\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\obj\Debug\net8.0\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\obj\Debug\net8.0\LibraryProject.AssemblyInfo.cs
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\obj\Debug\net8.0\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\obj\Debug\net8.0\LibraryProject.dll
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\obj\Debug\net8.0\refint\LibraryProject.dll
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\obj\Debug\net8.0\LibraryProject.pdb
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\obj\Debug\net8.0\LibraryProject.genruntimeconfig.cache
+C:\Users\caplo\source\repos\LibraryProject\LibraryProject\obj\Debug\net8.0\ref\LibraryProject.dll
